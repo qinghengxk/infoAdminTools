@@ -1,12 +1,11 @@
 #include <iostream>
 #include "./include/user.h"
+#include "./include/arch.h"
 #include <list>
-#include <windows.h>
 
 using namespace std;
 
 int main(){
-    MessageBox(NULL,"awa","awa",0);
-    
+    cout << "awa" << endl;
     return 0;
 }
